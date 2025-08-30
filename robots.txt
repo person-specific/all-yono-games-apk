@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://person-specific.github.io/all-yono-games-apk/sitemap.xml
